@@ -5,5 +5,5 @@ to implement/use them.
 
 <br>
 <h3> Addition </h3> 
-As in most programming languages like python and java the symbol for addition is `var example = true`
+As in most programming languages like python and java the symbol for addition is `+`. 
 
