@@ -3,7 +3,7 @@ Blogs of all of the Programming Languages Classes. The first 5 blogs go over wha
 <h2> ALL BLOGS </h2>
 <h3> Going over class concepts </h3>
 <a href="BlogOne.md">Environment Setup</a> <br>
-<a href="BlogTwo.md">Blog 2</a> <br>
+<a href="BlogTwo.md">Basic Haskell</a> <br>
 <a href="Blog3.md">Blog 3</a> <br>
 <a href="Blog4.md">Syntax and Parsing</a> <br>
 <a href="Blog5.md">Lambda Calculus</a> <br>
