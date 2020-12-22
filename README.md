@@ -12,5 +12,5 @@ Blogs of all of the Programming Languages Classes. The first 5 blogs go over wha
 <a href="Blog7.md">Modules</a> <br>
 <a href="Blog8.md">Monads</a> <br>
 <a href="Functor.md">Functor</a> <br>
-<a href="Noramalization.md">Normalization</a> 
+<a href="Normalization.md">Normalization</a> 
 
