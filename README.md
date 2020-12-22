@@ -2,7 +2,7 @@
 Blogs of all of the Programming Languages Classes. The first 5 blogs go over what we did in our class lectures and last 5 blogs go over new concpets that I explore. 
 <h2> ALL BLOGS </h2>
 <h3> Going over class concepts </h3>
-<a href="BlogOne.md">Blog 1</a> <br>
+<a href="BlogOne.md">Environment Setup</a> <br>
 <a href="BlogTwo.md">Blog 2</a> <br>
 <a href="Blog3.md">Blog 3</a> <br>
 <a href="Blog4.md">Syntax and Parsing</a> <br>
