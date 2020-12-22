@@ -8,8 +8,9 @@ Blogs of all of the Programming Languages Classes. The first 5 blogs go over wha
 <a href="Blog4.md">Blog 4</a> <br>
 <a href="Blog5.md">Blog 5</a> <br>
 <h3> Exploring Haskell </h3>
-<a href="Blog6.md">Blog 6</a> <br>
-<a href="Blog7.md">Blog 7</a> <br>
-<a href="Blog8.md.md">Monads</a> <br>
+<a href="Blog6.md">Operators</a> <br>
+<a href="Blog7.md">Modules</a> <br>
+<a href="Blog8.md">Monads</a> <br>
 <a href="Functor.md">Functor</a> <br>
+<a href="Noramalization.md">Normalization</a> 
 
